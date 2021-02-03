@@ -12,6 +12,6 @@ An image of a ![mosquito](https://media.wired.com/photos/5b296efa0da4a86262ab0b8
 ```
 python.py
 rscript
-
+bash
 ```
 :tada:
