@@ -12,6 +12,10 @@ bash
 
 This is ![Github](https://github.githubassets.com/images/modules/logos_page/Octocat.png)
 
+#link to Markdown
+
+This is [Markdown](https://commonmark.org/)
+
 #creating *repositories*
 
 creation of projects
